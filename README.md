@@ -1,9 +1,9 @@
 # Gestión de residuos plásticos:
 Este repositorio contiene un proyecto de análisis de datos de contaminación por plásticos utilizando Tableau
-
+El objetivo es analizar la emisión, uso y gestión de residuos plásticos de distintos países a fin de poder dar pautas sobre la gestión del plástico en base a los datos facilitados
 
 # Datos utilizados
-El objetivo es analizar la emisión, uso y gestión de residuos plásticos de distintos países a fin de poder dar pautas sobre la gestión del plástico en base a los datos facilitados
+Los datos se han obtenido de distintas fuentes de la página web www.kaggle.com
  
 
 ## Estructura del Repositorio
